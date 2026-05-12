@@ -1,6 +1,5 @@
 # Nuha-AL-Saadi
 My GitHub profile README
-
 Hi, I’m Nuha 👋
 💻 Front-End Developer | 🐍 Python Background 🚀 On the journey to becoming a Full-Stack Developer
 ⸻
