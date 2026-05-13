@@ -1,37 +1,37 @@
 ## Nuha-AL-Saadi
 My GitHub profile README
-Hi, I’m Nuha 👋
-💻 Front-End Developer | 🐍 Python Background 🚀 On the journey to becoming a Full-Stack Developer
+## Hi, I'm Nuha 👋
+### Front-End Developer | Python Background
 ------------
 👩‍💻 About Me:
 I started my programming journey with Python, where I built a strong foundation in logic and problem-solving. Currently, I focus on Front-End development, creating modern, responsive, and clean user interfaces using HTML and CSS.
 -----------
 🛠️ Skills:
 🎨 Front-End
-	●	HTML
-	●	CSS
-	●	Responsive Design
-	●	UI Basics
+	-	HTML
+	-	CSS
+	-	Responsive Design
+	-	UI Basics
 🧠 Programming
-	●	Python
-	●	Problem Solving
-	●	Basic Algorithms
+	-	Python
+	-	Problem Solving
+	-	Basic Algorithms
 ------------
 📌 Current Focus:
-	●	Building real-world Front-End projects
-	●	Improving UI/UX and responsive design
-	●	Writing clean and organized code
+	-	Building real-world Front-End projects
+	-	Improving UI/UX and responsive design
+	-	Writing clean and organized code
 -------------
 🎯 Future Goals:
-	●	Master Front-End development
-	●	Learn JavaScript deeply
-	●	Return to Python for backend development
-	●	Become a Full-Stack Developer
+	-	Master Front-End development&
+	-	Learn JavaScript deeply
+	-	Return to Python for backend development
+	-	Become a Full-Stack Developer
 -------------
 📂 Featured Projects:
 Check out my pinned repositories below 👇
 -------------
 📫 Connect With Me
-	●	LinkedIn: https://www.linkedin.com/in/nuha-al-saadi-80a460356
+	-	LinkedIn: https://www.linkedin.com/in/nuha-al-saadi-80a460356
 -------------
 ⭐ Always learning. Always building
