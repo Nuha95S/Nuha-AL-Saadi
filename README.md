@@ -7,16 +7,13 @@ About Me:
 I started programming with Python, which built my problem-solving skills.
 Now I focus on Front-End development and building responsive user interfaces using HTML and CSS.
 -----------
-🛠️ Skills:
-🎨 Front-End
-	-	HTML
-	-	CSS
-	-	Responsive Design
-	-	UI Basics
-🧠 Programming
-	-	Python
-	-	Problem Solving
-	-	Basic Algorithms
+⚒️ Skills:
+- Front-End
+- HTML
+- CSS
+- Responsive Design
+- Python
+- Problem Solving
 ------------
 📌 Current Focus:
 	-	Building real-world Front-End projects
@@ -25,7 +22,7 @@ Now I focus on Front-End development and building responsive user interfaces usi
 -------------
 🎯 Future Goals:
 	-	Master Front-End development&
-	-	Learn JavaScript deeply
+	-	development & Learn JavaScript deeply
 	-	Return to Python for backend development
 	-	Become a Full-Stack Developer
 -------------
