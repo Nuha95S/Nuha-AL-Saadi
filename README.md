@@ -5,7 +5,7 @@ Hi, I’m Nuha 👋
 ------------
 👩‍💻 About Me
 I started my programming journey with Python, where I built a strong foundation in logic and problem-solving. Currently, I focus on Front-End development, creating modern, responsive, and clean user interfaces using HTML and CSS.
-------------
+-----------
 🛠️ Skills
 🎨 Front-End
 	●	HTML
